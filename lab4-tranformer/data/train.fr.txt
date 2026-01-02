@@ -1,0 +1,10 @@
+Bonjour le monde
+Comment allez-vous
+J'aime Python
+Transformer est puissant
+Mamba est plus rapide
+L'encodage positionnel est important
+SentencePiece est un bon tokenizer
+RoPE est un encodage positionnel rotatif
+La traduction automatique est utile
+Les modèles d'apprentissage profond sont incroyables
